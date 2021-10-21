@@ -6,7 +6,7 @@ public class Ejerciciouno {
 		Scanner teclado;
 		teclado = new  Scanner(System.in);
 		
-		System.out.println("introduzca un entero");
+		System.out.println("introduzca un enteros");
 		int entero = teclado.nextInt();
 		System.out.println("mi variable entero es:" + entero );
 		
